@@ -1,0 +1,133 @@
+[
+    {
+        "movieName":"Kantara",
+
+        "heroName":"Rishab Shetty",
+        "heroinName":"Sapthami gowda",
+         "collection":"400"
+        
+    },
+    {
+        "movieName":"Googly",
+        "heroName":"Yash",
+        "heroinName":"Kirthi Karbanda",
+         "collection":"50"
+    },
+    {
+        "movieName":"Chamak",
+       "heroName":"Ganesh",
+        "heroinName":"Rasmika",
+         "collection":"40"
+        
+    },
+    {
+        "movieName":"Tu Jhooti Main Makkaar",
+       "heroName":"Ranbir Kapoor",
+        "heroinName":"Shraddha Kapoor",
+         "collection":"50"
+        
+    },
+    {
+        "movieName":"Mogina Manasu",
+       "heroName":"Yash",
+        "heroinName":"Radhika Pandit",
+         "collection":"30"
+        
+    },
+    {
+        "movieName":"Drama",
+        "heroName":"Yash",
+        "heroinName":"Radhika Pandit",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Ulidaru Kandante",
+        "heroName":"Rakshit Shetty",
+        "heroinName":"Sheetal sheety",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Shravani Subramanya",
+        "heroName":"Ganesh",
+        "heroinName":"Amulya",
+         "collection":"20" 
+    },
+    {
+        "movieName":"Ricky",
+        "heroName":"Rakshit Shetty",
+        "heroinName":"Haripriya",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Ugramm",
+        "heroName":"SriMurili",
+        "heroinName":"Haripriya",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Avane shmannaryan",
+        "heroName":"Rakshit Shetty",
+        "heroinName":"Shanvi",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Rajkumara",
+        "heroName":"Puneeth Rajkumar",
+        "heroinName":"Radhika Pandit",
+         "collection":"30" 
+    },
+    
+        {
+        "movieName":"Kirik party",
+        "heroName":"Rakshit Shetty",
+        "heroinName":"Rasmika",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Dia",
+        "heroName":"Deekshith sheety",
+        "heroinName":"Khushi",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Milana",
+        "heroName":"Puneeth Rajkumar",
+        "heroinName":"Parvathy",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Love Mocktail",
+        "heroName":"Krishna",
+        "heroinName":"Milana",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Vikrant Rona",
+        "heroName":"Sudeepa",
+        "heroinName":"Milana",
+         "collection":"30" 
+    },
+    {
+        "movieName":"777 charlie",
+        "heroName":"Rakshit Shetty",
+        "heroinName":"Sangeetha",
+         "collection":"30" 
+    }
+    ,
+        {
+        "movieName":"pogaru",
+        "heroName":"Druva sarja",
+        "heroinName":"Rasmika Mandanna",
+         "collection":"30" 
+    },
+    {
+        "movieName":"Hero",
+        "heroName":"Rishab Shetty",
+        "heroinName":"Ganavi",
+         "collection":"30" 
+    }
+    
+    
+
+
+]
